@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+dia_limpio.csv
+mercadona_limpio.csv
+dia_merc_todo2023-02-06.csv
